@@ -1,3 +1,2 @@
-# EndlessBalls-replica
-Копия популярной гиперказуалки endlessBalls
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+# EndlessBalls-replica Копия популярной гиперказуалки endlessBalls
+![me](https://github.com/uytoory/EndlessBalls-replica/5xcy41.gif)
