@@ -1,3 +1,3 @@
 # EndlessBalls-replica 
-![5xcy41](https://github.com/uytoory/EndlessBalls-replica/5xcy41.gif)
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 Копия популярной гиперказуалки endlessBalls
